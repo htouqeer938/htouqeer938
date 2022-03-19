@@ -15,7 +15,7 @@
    <li>📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (+923011321938)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (htouqeer938@gmail.com)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (www.touqeerhussain.me)<br/>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="blank">www.touqeerhussain.me</a>)<br/>
               }
         </li>
    </ul>
