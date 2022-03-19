@@ -25,10 +25,11 @@
   padding: 10px;
   height: 300px;">
     <div style=" padding-top: 35px;">
-    <img src="https://1.bp.blogspot.com/-sYHpxw9DbFo/YVGnMuhxu1I/AAAAAAAAAOc/lCP9xHLzPA0Gq63a2JrN2bvykbspD-EUQCLcBGAsYHQ/s0/me.jpg" style = "display: block;
+    <img src="https://1.bp.blogspot.com/-sYHpxw9DbFo/YVGnMuhxu1I/AAAAAAAAAOc/lCP9xHLzPA0Gq63a2JrN2bvykbspD-EUQCLcBGAsYHQ/s0/me.jpg" 
+         style = "display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 128px;
   border-radius: 50%;"/>
     </div>
   </div>
