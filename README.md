@@ -13,9 +13,9 @@
    <li>🌱 I’m currently working Javascript.</li>
    <li>💞️ I’m looking to collaborate on IT Company.</li>
    <li>📫 How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (+923011321938)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (htouqeer938@gmail.com)<br/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="blank">www.touqeerhussain.me</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a target="blank" href="tel:+923011321938">+923011321938</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a target="blank" href="mailto:htouqeer938@gmail.com">htouqeer938@gmail.com</a>)<br/>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="blank" href="http://www.touqeerhussain.me">touqeerhussain.me</a>)<br/>
               }
         </li>
    </ul>
