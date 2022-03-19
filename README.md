@@ -1,8 +1,5 @@
 <html>
 <body style="box-sizing: border-box;">
-
-<h2>Two Equal Columns</h2>
-
 <div style="content: "";
   display: table;
   clear: both;">
@@ -27,7 +24,6 @@
   width: 50%;
   padding: 10px;
   height: 300px;">
-
     <div style=" padding-top: 35px;">
     <img style = "display: block;
   margin-left: auto;
