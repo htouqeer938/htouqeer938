@@ -8,4 +8,5 @@
       Web: (www.touqeerhussain.me)
      }
 
-![plot](https://1.bp.blogspot.com/-sYHpxw9DbFo/YVGnMuhxu1I/AAAAAAAAAOc/lCP9xHLzPA0Gq63a2JrN2bvykbspD-EUQCLcBGAsYHQ/s0/me.jpg)
+<!-- ![plot](https://1.bp.blogspot.com/-sYHpxw9DbFo/YVGnMuhxu1I/AAAAAAAAAOc/lCP9xHLzPA0Gq63a2JrN2bvykbspD-EUQCLcBGAsYHQ/s0/me.jpg) -->
+<img src="https://1.bp.blogspot.com/-sYHpxw9DbFo/YVGnMuhxu1I/AAAAAAAAAOc/lCP9xHLzPA0Gq63a2JrN2bvykbspD-EUQCLcBGAsYHQ/s0/me.jpg" width="128"/>
