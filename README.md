@@ -9,9 +9,9 @@
   height: 300px;">
    <ul>
    <li>👋 Hi, I’m Touqeer Hussain</li>
-   <li>👀 I’m interested in Javascript</li>
-   <li>🌱 I’m currently working Javascript.</li>
-   <li>💞️ I’m looking to collaborate on IT Company.</li>
+   <li>👀 I make #JavaScriptApps</li>
+   <li>🌱 I’m currently working Javascript</li>
+   <li>💞️ I’m looking to collaborate on IT Company</li>
    <li>📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:htouqeer938@gmail.com">htouqeer938@gmail.com</a>)<br/>
