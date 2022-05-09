@@ -30,7 +30,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 128px;
-  border-radius: 50%;"/>
+  border-radius: 10px;"/>
     </div>
   </div>
 </div>
