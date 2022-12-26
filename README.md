@@ -12,6 +12,7 @@
    <li>👀 I make #JavaScriptApps</li>
    <li>🌱 I’m currently working Javascript</li>
    <li>💞️ I’m looking to collaborate on IT Company</li>
+   <li>☕ <i href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</i></li>
    <li>📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:htouqeer938@gmail.com">htouqeer938@gmail.com</a>)<br/>
