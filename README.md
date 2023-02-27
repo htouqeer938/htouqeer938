@@ -7,10 +7,9 @@
 <h1>Connect with me </h1>
 
 <a href="https://www.linkedin.com/in/surajbhan-singh/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
-<span>
-<a href="https://twitter.com/surajbhan2boaz" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="5%" height="5%"></a></span> 
-<span>
-<a href="https://www.quora.com/profile/Suraj-Bhan-Singh-24" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938093.png" width="5%" height="5%"></a></span> 
+ <span>
+            <a href="https://github.com/htouqeer938" rel="nofollow"><img
+                        src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="5%" height="5%"></a></span>
 </span>
 
 
