@@ -1,5 +1,5 @@
 - 👋 Hi,,, I’m  Touqeer Hussain
-- 🌱 I’m currently working Javascript and .NET diff frameworks and libraries
+- 🌱 I’m currently working Javascript and .NET diffrent frameworks and libraries
 - 💞️ I’m looking to collaborate on IT 
 - ☕ <a href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me htouqeer938@gmail.com
