@@ -6,7 +6,7 @@
 
 <h1>Connect with me </h1>
 
-<a href="https://www.linkedin.com/in/surajbhan-singh/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
+<a href="https://www.linkedin.com/in/touqeer-hussain-753715228/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
  <span>
             <a href="https://github.com/htouqeer938" rel="nofollow"><img
                         src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
@@ -33,15 +33,15 @@
 
 
 <!---
-surajbhan-3/surajbhan-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+htouqeer938/htouqeer938 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=surajbhan-3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=htouqeer938)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![surajbhan GitHub stats](https://github-readme-stats.vercel.app/api?username=surajbhan-3&count_private=true)](https://github.com/surajbhan-3/github-readme-stats)<span>     ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhan-3&layout=compact)</span>
+[![htouqeer938 GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&count_private=true)](https://github.com/htouqeer938/github-readme-stats)<span>     ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact)</span>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=surajbhan-3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=htouqeer938)](https://git.io/streak-stats)
 <br>
