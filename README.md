@@ -1,7 +1,4 @@
-
-<html lang="en">
-<body>
-      <ul>
+  <ul>
             <li>👋 Hi, I’m Touqeer Hussain</li>
             <li>👀 I make #javascriptapps #dotnetapps</li>
             <li>🌱 I’m currently working Javascript and .NET diff frameworks and libraries</li>
@@ -24,7 +21,9 @@
                   data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
       <span>
             <a href="https://github.com/htouqeer938" rel="nofollow"><img
-                        src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="5%" height="5%"></a></span>
+                        src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="5%" height="5%"></a></span>
+
+      </span>
 
 
       <h1> Languages and Tools </h1>
@@ -65,7 +64,3 @@ You can click the Preview link to take a look at your changes.
       [![GitHub Streak](https://streak-stats.demolab.com/?user=surajbhan-3)](https://git.io/streak-stats)
       <br>
 
-
-</body>
-
-</html>
