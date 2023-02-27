@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/surajbhan-singh/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
  <span>
             <a href="https://github.com/htouqeer938" rel="nofollow"><img
-                        src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="5%" height="5%"></a></span>
+                        src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
 </span>
 
 
