@@ -43,7 +43,9 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=htouqeer938)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![htouqeer938 GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&count_private=true)](https://github.com/htouqeer938/github-readme-stats)<span>     ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact)</span>
+<!-- [![htouqeer938 GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&count_private=true)](https://github.com/htouqeer938/github-readme-stats)<span> -->
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&bg_color=00000000)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact)</span>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=htouqeer938)](https://git.io/streak-stats)
