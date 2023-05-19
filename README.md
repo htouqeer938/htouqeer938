@@ -25,24 +25,9 @@
 <br>
 
 
-
-
-<a href="https://drive.google.com/file/d/1Xts_28p_4MimRII3n7m1d50v9dSt_pVX/view"><img src="https://skillicons.dev/icons?i=html"/>  </a> <span>
-<a href="https://drive.google.com/file/d/1Xts_28p_4MimRII3n7m1d50v9dSt_pVX/view"><img src="https://skillicons.dev/icons?i=figma"/>  </a></span>
-
-
-
-
-
-
--
-htouqeer938/htouqeer938 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=htouqeer938)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=transparent)
+![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact)</span>
 
 
