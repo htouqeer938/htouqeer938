@@ -29,7 +29,7 @@
 
 ![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htouqeer938&repo=github-readme-stats)](https://github.com/htouqeer938/github-readme-stats)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact)</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938)](https://github.com/htouqeer938/github-readme-stats)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=htouqeer938)](https://git.io/streak-stats)
