@@ -19,7 +19,7 @@
 <h1> Languages and Tools </h1>
 
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python"/>
 
 <br>
 
