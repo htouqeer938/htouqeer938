@@ -9,26 +9,22 @@
               }
 <h1>Connect with me </h1>
 
-<a href="https://www.linkedin.com/in/touqeer-hussain-753715228/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
- <span>
-            <a href="https://github.com/htouqeer938" rel="nofollow"><img
-                        src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
+<a href="https://www.linkedin.com/in/touqeer-hussain-753715228/" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
+</a>
+<span>
+  <a href="https://github.com/htouqeer938" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
 </span>
 
 
-<h1> Languages and Tools </h1>
-
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python"/>
-
+<h1> Languages </h1>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python"/>
 <br>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=htouqeer938)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htouqeer938&repo=github-readme-stats&show_owner=true)](https://github.com/htouqeer938/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938)](https://github.com/htouqeer938/github-readme-stats)
 
