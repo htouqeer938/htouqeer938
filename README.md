@@ -19,9 +19,9 @@
 
 <h1> Languages </h1>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python,flutter"/>
-<br>
+<be>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=htouqeer938)]
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=htouqeer938)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938)](https://github.com/htouqeer938/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=htouqeer938)](https://github.com/ryo-ma/github-profile-trophy)
 ![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938)](https://github.com/htouqeer938/github-readme-stats)
