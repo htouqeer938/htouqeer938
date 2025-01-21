@@ -1,5 +1,5 @@
 - 👋 Hi,,, I’m  Touqeer Hussain
-- 🌱 I’m currently working Javascript and .NET diffrent frameworks and libraries
+- 🌱 I’m currently working with Javascript and .NET different frameworks and libraries
 - 💞️ I’m looking to collaborate on IT 
 - ☕ <a href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
@@ -21,8 +21,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python,flutter"/>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=htouqeer938&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=htouqeer938)]
 [![trophy](https://github-profile-trophy.vercel.app/?username=htouqeer938)](https://github.com/ryo-ma/github-profile-trophy)
 ![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938)](https://github.com/htouqeer938/github-readme-stats)
