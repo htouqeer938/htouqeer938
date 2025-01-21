@@ -14,7 +14,7 @@
 - 📞 Phone: [+92 301 1321 938](tel:+923011321938)
 - 📧 Email: [htouqeer938@gmail.com](mailto:htouqeer938@gmail.com)
 - 🌐 Portfolio: [touqeerhussain.com](https://www.touqeerhussain.com/)
-- 💼 LinkedIn: [linkedin.com/touqeer-hussain](https://www.linkedin.com/in/touqeer-hussain/)
+- 💼 LinkedIn: [linkedin.com/touqeer-hussain](https://www.linkedin.com/in/touqeer-hussain-753715228/)
 - 💻 GitHub: [github.com/htouqeer938](https://github.com/htouqeer938)
 
 ---
