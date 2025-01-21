@@ -1,27 +1,55 @@
-- 👋 Hi,,, I’m  Touqeer Hussain
-- 🌱 I’m currently working with Javascript and .NET different frameworks and libraries
-- 💞️ I’m looking to collaborate on IT 
-- ☕ <a href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</a>
-- 📫 How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:htouqeer938@gmail.com">htouqeer938@gmail.com</a>)<br/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="_blank" href="https://www.touqeerhussain.com/">touqeerhussain.com</a>)<br/>
-              }
-<h1>Connect with me </h1>
+<h1 align="center">Hi 👋, I'm Touqeer Hussain</h1>
+<h3 align="center">A passionate Developer working with JavaScript and .NET frameworks and libraries</h3>
 
-<a href="https://www.linkedin.com/in/touqeer-hussain-753715228/" rel="nofollow">
-  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
-</a>
-<span>
-  <a href="https://github.com/htouqeer938" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
-</span>
+---
 
+🌱 **Currently Working With**: JavaScript & .NET Frameworks  
+💞️ **Looking to Collaborate On**: IT Projects & Open-Source Contributions  
+☕ **Support My Work**: [Buy Me a Coffee](https://www.buymeacoffee.com/htouqeer938)
 
-<h1> Languages </h1>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python,flutter"/>
-<be>
+---
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=htouqeer938)
-![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=default)
-[![trophy](https://github-profile-trophy.vercel.app/?username=htouqeer938)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938)](https://github.com/htouqeer938/github-readme-stats)
+### 📫 How to Reach Me:
+- 📞 Phone: [+92 301 1321938](tel:+923011321938)
+- 📧 Email: [htouqeer938@gmail.com](mailto:htouqeer938@gmail.com)
+- 🌐 Web: [touqeerhussain.com](https://www.touqeerhussain.com/)
+
+---
+
+<h2 align="center">🌐 Connect With Me 🌐</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/touqeer-hussain-753715228/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="40px" height="40px" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/htouqeer938" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40px" height="40px" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<h2 align="center">🚀 Languages & Tools 🚀</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python,flutter" alt="Languages and Tools">
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=htouqeer938&theme=tokyonight" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+<h2 align="center">🏆 Achievements 🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=htouqeer938&theme=gruvbox&margin-w=15&margin-h=15" alt="Achievements">
+</p>
