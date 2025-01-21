@@ -68,7 +68,7 @@ Menu and customer loyalty management solution.
   <img src="https://github-readme-stats.vercel.app/api?username=htouqeer938&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=htouqeer938" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=htouqeer938&theme=tokyonight" alt="GitHub Streak">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact&theme=tokyonight" alt="Top Languages">
