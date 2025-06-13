@@ -13,8 +13,8 @@
 ### 📫 How to Reach Me:
 - 📞 Phone: [+92 301 1321 938](tel:+923011321938)
 - 📧 Email: [htouqeer938@gmail.com](mailto:htouqeer938@gmail.com)
-- 🌐 Portfolio: [touqeerhussain.com](https://www.touqeerhussain.com/)
-- 💼 LinkedIn: [linkedin.com/touqeer-hussain](https://www.linkedin.com/in/touqeer-hussain-753715228/)
+- 🌐 Portfolio: [touqeerhussain.com](https://touqeer-hussain.vercel.app)
+- 💼 LinkedIn: [linkedin.com/touqeer-hussain](https://www.linkedin.com/in/touqeer-hussain-developer)
 - 💻 GitHub: [github.com/htouqeer938](https://github.com/htouqeer938)
 
 ---
