@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Touqeer Hussain</h1>
-<h3 align="center">Experienced Full Stack Developer | 6+ Years in Building Scalable and User-Friendly Applications</h3>
+<h3 align="center">Experienced Full Stack Developer | 7+ Years in Building Scalable and User-Friendly Applications</h3>
 
 ---
 
