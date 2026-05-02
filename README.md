@@ -64,15 +64,14 @@ Menu and customer loyalty management solution.
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
-<p align="center">
+<div display="flex">
+  <p align="center">
   <img src="https://streak-stats.demolab.com?user=htouqeer938&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
-<!-- <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=htouqeer938&theme=tokyonight" alt="GitHub Streak">
-</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htouqeer938&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
+</div>
 
 ---
 
