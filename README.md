@@ -4,7 +4,7 @@
 ---
 
 🌱 **Passionate About**: Building innovative, scalable solutions using cutting-edge technologies.  
-💼 **Experience**: Over 6 years of expertise in Full Stack Development with proficiency in microservices architecture and real-time data processing.  
+💼 **Experience**: Over 7 + years of expertise in Full Stack Development with proficiency in microservices architecture and real-time data processing.  
 💞️ **Open to Collaborate On**: IT projects, SaaS solutions, and open-source contributions.  
 ☕ **Support My Work**: [Buy Me a Coffee](https://www.buymeacoffee.com/htouqeer938)
 
@@ -21,11 +21,11 @@
 
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
 
-- **Programming Languages**: JavaScript (React, Node, Redux, Vue.js), .NET (C#, ASP.NET, .NET Core)
+- **Programming Languages**: JavaScript (React, Node, Redux, Vue.js), Python (Flask, Django), .NET
 - **UI Frameworks**: DevExpress, MUI, Tailwind CSS, Bootstrap
 - **Databases**: MongoDB, MySQL, PostgreSQL, MS SQL
 - **Tools & Platforms**: Git, Azure DevOps, Bitbucket
-- **Architecture**: Microservices, REST APIs, Real-Time Data Processing
+- **Architecture**: Microservices, REST APIs, Real-Time Data Processing, Web RTC
 - **Others**: Stripe Integration, Multilingual Solutions, AI Integration (Python)
 
 ---
