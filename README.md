@@ -3,7 +3,7 @@
   Copy this file to the repo `htouqeer938/htouqeer938` as `README.md`.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:1e3a8a,100:0891b2&text=Touqeer%20Hussain&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Senior%20Full%20Stack%20Developer%20%C2%B7%20Founder%20%26%20CEO,%20Qubixon%20International&descAlignY=57&descSize=18" width="100%" alt="Touqeer Hussain" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:1e3a8a,100:0891b2&text=Touqeer%20Hussain&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Senior%20Full%20Stack%20Developer%20%C2%B7%20Founder%20%26amp%3B%20CEO,%20Qubixon%20International&descAlignY=57&descSize=18" width="100%" alt="Touqeer Hussain" />
 
 <p align="center">
   <a href="https://touqeer-hussain.vercel.app">
